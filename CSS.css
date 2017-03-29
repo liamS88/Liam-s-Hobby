@@ -1,0 +1,17 @@
+body {
+    background: aqua;
+    text-align: center;
+    text-decoration-color: black;
+
+
+
+}
+
+p {
+    text-decoration-color: azure;
+}
+
+.color {
+    color:rgb(195,0,255);
+
+}
